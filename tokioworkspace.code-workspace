@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"name": "dependencies_core",
+			"path": "dependencies_core"
+		},
+		{
+			"name": "domain",
+			"path": "domain"
+		},
+		{
+			"name": "backend",
+			"path": "backend"
+		},
+		{
+			"name": "ui_core",
+			"path": "ui_core"
+		},
+		{
+			"name": "application_core",
+			"path": "application_core"
+		},
+		{
+			"name": "app_tokio",
+			"path": "app_tokio"
+		},
+	],
+	"settings": {
+		"editor.rulers": [],
+	}
+}
