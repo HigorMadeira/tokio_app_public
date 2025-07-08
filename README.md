@@ -1,7 +1,8 @@
 # Desafio APP_TOKIO
 
 ## Web: https://tokio-app-desafio.web.app/
-
+### O app web está hospedado no firebase
+ 
 ## Mobile:
 
 ### Flutter 3.32.5
