@@ -12,7 +12,7 @@ O pacote de execução é app_tokio e pode ser rodado tanto Web quanto Mobile.
 
 ## Features Extras:
 
-### criação de conta funcional com criptografia na senha usando db (supabase) e chave a chave não esta inclusa.
+### criação de conta funcional com criptografia na senha usando db (supabase) a chave Não esta inclusva(é necessario um release.env).
 ### Local Storage para salvar credenciais de forma local ( tanto web quanto mobile )
 ### WebView
 
